@@ -455,6 +455,8 @@ section {
   list-style: none;
   margin: 40px 0;
   width: 100%;
+  display: flex;
+  justify-content: space-around;
 }
 .people-list li {
   position: relative;
@@ -600,7 +602,7 @@ there.
     width: 100%;
   }
   .people-list li.people-list-item.columns {
-    width: 46%;
+    width: 47%;
     box-sizing: content-box;
   }
   .contact-us-details {
