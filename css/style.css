@@ -462,12 +462,10 @@ section {
   position: relative;
   height: 340px;
   overflow: hidden;
-  margin-left: 40px;
   display: flex;
   justify-content: space-around;
 }
 .people-list li img {
-  width: auto;
   height: 100%;
 }
 
@@ -580,6 +578,16 @@ section {
 .asterisk {
   text-align: left;
   font-size: 11px;
+}
+
+.question {
+  text-align: left;
+  font-weight: 800;
+}
+
+.interests {
+  text-align: left;
+  font-weight: 100;
 }
 /* Media Queries
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
