@@ -460,11 +460,11 @@ section {
   position: relative;
   height: 340px;
   overflow: hidden;
+  margin-left: 40px;
 }
 .people-list li img {
   width: auto;
   height: 100%;
-  display: block;
 }
 
 .people-list .people-hover {
